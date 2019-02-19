@@ -1,7 +1,22 @@
-<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:stoa0040" xml:lang="lat" urn="urn:cts:latinLit:stoa0040.stoa032">
-  <ti:title xml:lang="eng">De Agone Christiano</ti:title>
-  <ti:edition urn="urn:cts:latinLit:stoa0040.stoa032.opp-lat2" workUrn="urn:cts:latinLit:stoa0040.stoa032">
-    <ti:label xml:lang="eng">De Agone Christiano</ti:label>
-    <ti:description xml:lang="eng">Augustinus, De Agone Christiano</ti:description>
-  </ti:edition>
-</ti:work>
+ <ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" 
+    groupUrn="urn:cts:latinLit:stoa0040"
+    xml:lang="lat"  
+    urn="urn:cts:latinLit:stoa0040.stoa032">
+    <ti:title xml:lang="lat">De Agone Christiano</ti:title>
+    <ti:translation xml:lang="eng" urn="urn:cts:latinLit:stoa0040.stoa025a.opp-lat1" workUrn="urn:cts:latinLit:stoa0040.stoa025a">
+      <ti:label xml:lang="fre">Le combat chrétien</ti:label>
+      <ti:label xml:lang="eng">Christian combat</ti:label>
+      <ti:description xml:lang="eng">Augustine (saint ; 0354-0430), creator</ti:description>
+    </ti:translation>
+    <ti:edition urn="urn:cts:latinLit:stoa0040.stoa032.opp-lat2" workUrn="urn:cts:latinLit:stoa0040.stoa032">
+      <ti:label xml:lang="lat">Sancti Aurelii Augustini Hipponensis episcopi opera omnia</ti:label>
+      <ti:description xml:lang="eng">Migne, Jacques-Paul (1800-1875), editor</ti:description>
+      <cpt:structured-metadata>
+        <dc:identifier>https://www.wikidata.org/wiki/Q8018</dc:identifier>
+        <dc:identifier>https://viaf.org/viaf/66806872/</dc:identifier>
+        <dc:creator xml:lang="eng">Augustine of Hippo</dc:creator>
+        <dc:title xml:lang="lat">De Agone Christiano</dc:title>
+        <dc:publisher xml:lang="eng">J.-P. Migne</dc:publisher>
+      </cpt:structured-metadata>
+    </ti:edition>
+  </ti:work>
