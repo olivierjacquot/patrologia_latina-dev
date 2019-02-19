@@ -1,11 +1,3 @@
-<ti:textgroup
-	urn="urn:cts:latinLit:stoa0040"
-	xmlns:ti="http://chs.harvard.edu/xmlns/cts"	
-	xmlns:cpt="http://purl.org/capitains/ns/1.0#"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"	
-    xmlns:scm="http://schema.org/">>
-	<ti:groupname xml:lang="eng">Augustine (saint ; 0354-0430)</ti:groupname>
-    <ti:groupname xml:lang="fre">Augustin (saint ; 0354-0430)</ti:groupname>
 <ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" 
 	groupUrn="urn:cts:latinLit:stoa0040"
 	xml:lang="lat"  
@@ -27,10 +19,3 @@
     </cpt:structured-metadata>
   </ti:edition>
 </ti:work>
-    <cpt:structured-metadata>
-        <scm:birthDate>0354/11/13</scm:birthDate>
-        <scm:birthDate>0430/08/28</scm:birthDate>
-        <scm:birthPlace xml:lang="fre">Thagaste</scm:birthPlace>
-        <scm:birthPlace>https://pleiades.stoa.org/places/315198</scm:birthPlace>
-    </cpt:structured-metadata>
-</ti:textgroup>
